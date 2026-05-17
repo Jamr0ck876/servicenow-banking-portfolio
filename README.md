@@ -18,7 +18,7 @@ acknowledged within 15 minutes and escalated to the Major Incident team.
 - [x] Custom table extending Task with auto-numbering (BAN prefix)
 - [x] Banking-specific fields: Regulatory Flag, Impacted Channel, Breach Type
 - [x] Assignment rule: P1 → Major Incident team
-- [ ] SLA: 15-min response for P1 regulatory incidents
+- [x] SLA: 15-min response for P1 regulatory incidents
 - [ ] Executive dashboard
 
 ### Screenshots

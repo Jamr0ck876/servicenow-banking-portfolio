@@ -22,4 +22,7 @@ acknowledged within 15 minutes and escalated to the Major Incident team.
 - [ ] Executive dashboard
 
 ### Screenshots
-*(add screenshots as you build)*
+<img width="1888" height="575" alt="image" src="https://github.com/user-attachments/assets/66e924f3-78e9-41a7-a9c0-be8527288b60" />
+<img width="1902" height="447" alt="image" src="https://github.com/user-attachments/assets/2dbea3fe-bbc1-4d6d-8649-1b2951cfdded" />
+
+<img width="1887" height="418" alt="image" src="https://github.com/user-attachments/assets/308d0182-efde-4b91-a530-318f9f098327" />

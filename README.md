@@ -29,3 +29,23 @@ acknowledged within 15 minutes and escalated to the Major Incident team.
 <img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/f1d165b4-55b4-41cc-b6b7-aaf1d4dfff24" />
 
 
+
+## Project 2 — Banking Complaint Management
+
+**Scenario:** Three-tier customer complaint process based on real banking 
+operations. Service complaints resolved same day, escalated complaints 
+within 30-day IDR window, executive complaints with parallel HR workflow.
+
+**Scoped app:** x_bank_complaint
+
+### Deliverables
+- [ ] Service Complaint table
+- [ ] Escalated Complaint table  
+- [ ] Executive Complaint table (with parallel HR task flow)
+- [ ] Assignment rules (3 teams)
+- [ ] 30-day IDR SLA
+- [ ] Executive complaint dashboard
+
+
+
+
